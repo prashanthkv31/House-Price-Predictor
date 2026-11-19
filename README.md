@@ -14,13 +14,3 @@ using the Boston Housing dataset.
 
 ## Tech stack
 Python, Pandas, NumPy, scikit-learn, Google Colab
-
-## Files
-- `boston.ipynb`: main notebook
-- `house_price_model.pkl`: trained Lasso model
-- `scaler.pkl`: fitted StandardScaler
-
-## How to run
-1. Open the notebook in Google Colab
-2. Upload `boston_housing_data.csv`
-3. Run all cells
